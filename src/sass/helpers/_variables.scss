@@ -1,3 +1,4 @@
+
 /*---------------------------
 	Fonts
 ----------------------------*/
@@ -38,7 +39,6 @@
     font-style: normal;
 }
 
-
 // fonts
 $base-font-size: 15;
 $base-font: 'Poppins', sans-serif;
@@ -46,18 +46,16 @@ $heading-font: 'Now';
 $heading-font-s2: 'Conv_Now-Bold';
 $heading-font-s3: 'Barlow Condensed', sans-serif;
 
-
-
-// color
-$dark-gray: #30180d;
-$white: #fff;
-$black: #000;
+// Updated color scheme - White + #877B91
+$dark-gray: #333333;
+$white: #FFFFFF;
+$black: #000000;
 $small-black: #333;
 
-$theme-primary-color: #b83806;
-$theme-secondary-color: #bf692d;
-$body-bg-color: #f2f0f0;
-$section-bg-color: #fdf5ee;
-$text-color: #696664;
-$heading-color: $dark-gray;
-$border-color: #ebebeb;
+$theme-primary-color: #877B91;
+$theme-secondary-color: #9a8c9a;
+$body-bg-color: #FFFFFF;
+$section-bg-color: #f8f9fa;
+$text-color: #666666;
+$heading-color: #333333;
+$border-color: #e0e0e0;
